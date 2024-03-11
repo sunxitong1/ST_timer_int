@@ -1,0 +1,79 @@
+E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\Motor_demo\BrowseInfo\User_8454777428142420917.dir\regular_conversion_manager.pbi: \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\Src\regular_conversion_manager.c \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Inc\mc_type.h \
+  E:\special\ software\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\stdint.h \
+  E:\special\ software\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\ycheck.h \
+  E:\special\ software\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\yvals.h \
+  E:\special\ software\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\DLib_Defaults.h \
+  E:\special\ software\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\DLib_Config_Full.h \
+  E:\special\ software\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\DLib_Product.h \
+  E:\special\ software\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\stdbool.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Inc\mc_stm_types.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_ll_bus.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\CMSIS\Device\ST\STM32G4xx\Include\stm32g4xx.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\CMSIS\Device\ST\STM32G4xx\Include\stm32g431xx.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\CMSIS\Include\core_cm4.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\CMSIS\Include\cmsis_version.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\CMSIS\Include\cmsis_iccarm.h \
+  E:\special\ software\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\aarch32\iccarm_builtin.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\CMSIS\Include\mpu_armv7.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\CMSIS\Device\ST\STM32G4xx\Include\system_stm32g4xx.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Inc\stm32g4xx_hal_conf.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_rcc.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_def.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h \
+  E:\special\ software\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\stddef.h \
+  E:\special\ software\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\ysizet.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_rcc_ex.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_gpio.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_gpio_ex.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_dma.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_dma_ex.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_cortex.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_exti.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_flash.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_flash_ex.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_flash_ramfunc.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_pwr.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_pwr_ex.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_ll_rcc.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_ll_system.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_ll_adc.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_ll_tim.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_ll_gpio.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_ll_usart.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_ll_dac.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_ll_dma.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_ll_dmamux.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_ll_comp.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_ll_opamp.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_ll_cordic.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Inc\regular_conversion_manager.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Inc\mc_type.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Inc\mc_config.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\MCSDK_v6.2.1-Full\MotorControl\MCSDK\MCLib\Any\Inc\pid_regulator.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\MCSDK_v6.2.1-Full\MotorControl\MCSDK\MCLib\Any\Inc\speed_torq_ctrl.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\MCSDK_v6.2.1-Full\MotorControl\MCSDK\MCLib\Any\Inc\pid_regulator.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\MCSDK_v6.2.1-Full\MotorControl\MCSDK\MCLib\Any\Inc\speed_pos_fdbk.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\MCSDK_v6.2.1-Full\MotorControl\MCSDK\MCLib\Any\Inc\virtual_speed_sensor.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\MCSDK_v6.2.1-Full\MotorControl\MCSDK\MCLib\Any\Inc\ntc_temperature_sensor.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\MCSDK_v6.2.1-Full\MotorControl\MCSDK\MCLib\Any\Inc\revup_ctrl.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\MCSDK_v6.2.1-Full\MotorControl\MCSDK\MCLib\Any\Inc\speed_torq_ctrl.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\MCSDK_v6.2.1-Full\MotorControl\MCSDK\MCLib\Any\Inc\virtual_speed_sensor.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\MCSDK_v6.2.1-Full\MotorControl\MCSDK\MCLib\Any\Inc\sto_speed_pos_fdbk.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Inc\pwm_curr_fdbk.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Inc\pwm_curr_fdbk.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Inc\mc_interface.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Inc\mc_configuration_registers.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\Inc\regular_conversion_manager.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\MCSDK_v6.2.1-Full\MotorControl\MCSDK\MCLib\Any\Inc\r_divider_bus_voltage_sensor.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\MCSDK_v6.2.1-Full\MotorControl\MCSDK\MCLib\Any\Inc\bus_voltage_sensor.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\MCSDK_v6.2.1-Full\MotorControl\MCSDK\MCLib\Any\Inc\virtual_bus_voltage_sensor.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\MCSDK_v6.2.1-Full\MotorControl\MCSDK\MCLib\Any\Inc\pqd_motor_power_measurement.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\MCSDK_v6.2.1-Full\MotorControl\MCSDK\MCLib\G4xx\Inc\r3_1_g4xx_pwm_curr_fdbk.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\MCSDK_v6.2.1-Full\MotorControl\MCSDK\MCLib\Any\Inc\ramp_ext_mngr.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\MCSDK_v6.2.1-Full\MotorControl\MCSDK\MCLib\Any\Inc\circle_limitation.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\MCSDK_v6.2.1-Full\MotorControl\MCSDK\MCLib\Any\Inc\sto_speed_pos_fdbk.h \
+  E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\..\MCSDK_v6.2.1-Full\MotorControl\MCSDK\MCLib\Any\Inc\sto_pll_speed_pos_fdbk.h

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\Motor_demo\Exe\Motor_demo.out</Path>
+            <Output>
+                <Path>E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\Motor_demo\List\Motor_demo.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>

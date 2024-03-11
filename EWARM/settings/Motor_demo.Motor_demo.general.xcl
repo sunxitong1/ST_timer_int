@@ -1,0 +1,15 @@
+"E:\special software\IAR Systems\Embedded Workbench 9.2\arm\bin\armPROC.dll" 
+
+"E:\special software\IAR Systems\Embedded Workbench 9.2\arm\bin\armSTLINK.dll" 
+
+"E:\workspace\ST\motor_ll_iar\Motor_demo\EWARM\Motor_demo\Exe\Motor_demo.out" 
+
+--plugin="E:\special software\IAR Systems\Embedded Workbench 9.2\arm\bin\armLibSupportUniversal.dll" 
+
+--device_macro="E:\special software\IAR Systems\Embedded Workbench 9.2\arm/config/debugger/ST/STM32G4xx.dmac" 
+
+--flash_loader="E:\special software\IAR Systems\Embedded Workbench 9.2\arm/config/flashloader/ST/FlashSTM32G43xxB.board" 
+
+
+
+
